@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 actividad31 en la rama principal
 linea 2
+=======
+actividad31
+linea adicional 1
+linea adicional 2
+>>>>>>> actividad3
